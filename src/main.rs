@@ -12,5 +12,5 @@ fn main() {
     let num2 = 713883; // Second number
     let gcd_result = euclidean_algorithm(num1, num2);
     
-    // println!("The GCD of {} and {} is {}", num1, num2, gcd_result);
+    println!("The GCD of {} and {} is {}", num1, num2, gcd_result);
 }
